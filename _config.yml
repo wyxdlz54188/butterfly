@@ -1074,7 +1074,11 @@ CDN:
     # docsearch_css:
     # docsearch_js:
     # egjs_infinitegrid:
-    # fancybox:
+    # 图片放大功能
+fancybox:
+  enable: true
+  animationEffect: "zoom"  # 放大动画效果
+  transitionEffect: "circular"  # 切换动画效果
     # fancybox_css:
     # fireworks:
     # fontawesome:
