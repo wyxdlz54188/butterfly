@@ -119,7 +119,7 @@ post_meta:
   # Home Page
   page:
     # Choose: created / updated / both
-    date_type: created
+    date_type: 创建
     # Choose: date / relative
     date_format: date
     categories: true
@@ -233,7 +233,7 @@ related_post:
   # Number of posts displayed
   limit: 6
   # Choose: created / updated
-  date_type: created
+  date_type: 创建
 
 # Choose: 1 / 2 / false
 # 1: The 'next post' will link to old post
@@ -566,9 +566,9 @@ gitalk:
 # Valine
 # https://valine.js.org
 valine:
-  appId:
-  appKey:
-  avatar: monsterid
+  appId: JtDrjPc8aU63nSVDsyufncV2-MdYXbMMI
+  appKey: EQ96MDdFySbPLtrPqpWwdRcD
+  avatar: wyxdlz
   # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   serverURLs:
   bg:
@@ -921,7 +921,7 @@ mermaid:
   code_write: false
   # built-in themes: default / forest / dark / neutral
   theme:
-    light: default
+    light: 默认
     dark: dark
 
 # chartjs
