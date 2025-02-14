@@ -568,12 +568,12 @@ gitalk:
 valine:
   appId: JtDrjPc8aU63nSVDsyufncV2-MdYXbMMI
   appKey: EQ96MDdFySbPLtrPqpWwdRcD
-  avatar: wyxdlz
+  avatar: monsterid
   # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   serverURLs:
   bg:
   # Use Valine visitor count as the page view count
-  visitor: false
+  visitor: true
   option:
 
 # Waline - A simple comment system with backend support fork from Valine
