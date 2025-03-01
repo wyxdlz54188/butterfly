@@ -571,7 +571,7 @@ valine:
   appKey: EQ96MDdFySbPLtrPqpWwdRcD
   avatar: monsterid
   # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  serverURLs:https://JtDrjPc8.api.lncldglobal.com
+  serverURLs:https://MdYXbMMI.api.lncldglobal.com
   bg:
   # Use Valine visitor count as the page view count
   visitor: true
