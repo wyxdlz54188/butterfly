@@ -533,7 +533,7 @@ comments:
   # Display comment count in post's top_img
   count: true
   # Display comment count in Home Page
-  card_post_count: false
+  card_post_count: true
 
 # Disqus
 # https://disqus.com/
@@ -579,7 +579,6 @@ valine:
   # Use Valine visitor count as the page view count
   visitor: true
   option:
-  serverURL: https://jtdrjpc8.api.lncldglobal.com
 
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
