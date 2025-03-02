@@ -579,6 +579,7 @@ valine:
   # Use Valine visitor count as the page view count
   visitor: true
   option:
+  serverURL: https://jtdrjpc8.api.lncldglobal.com
 
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
