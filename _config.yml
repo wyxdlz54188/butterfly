@@ -479,8 +479,12 @@ search:
 
   # Local Search
   local_search:
+    enable: true
+    labels:
+    input_placeholder: Search for Posts
+    hits_empty: "We didn't find any results for the search: ${query}"
     # Preload the search data when the page loads.
-    preload: false
+    preload: ture
     # Show top n results per article, show all results by setting to -1
     top_n_per_article: 3
     # Unescape html strings to the readable one.
