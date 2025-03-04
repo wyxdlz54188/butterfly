@@ -579,6 +579,10 @@ valine:
   # Use Valine visitor count as the page view count
   visitor: true
   option:
+  pageSize: 10
+  placeholder: '输入文字'
+  notify: false
+  verify: false
 
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
