@@ -1054,7 +1054,7 @@ CDN:
   third_party_provider: jsdelivr
 
   # Add version number to url, true or false
-  version: false
+  version: true
 
   # Custom format
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
@@ -1082,11 +1082,6 @@ CDN:
     # docsearch_css:
     # docsearch_js:
     # egjs_infinitegrid:
-    # 图片放大功能
-fancybox:
-  enable: true
-  animationEffect: "zoom"  # 放大动画效果
-  transitionEffect: "circular"  # 切换动画效果
     # fancybox_css:
     # fireworks:
     # fontawesome:
@@ -1117,6 +1112,6 @@ fancybox:
     # twikoo:
     # typed:
     # utils:
-    # valine:
+    valine: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/valine/1.4.16/Valine.min.js
     # waline_css:
     # waline_js:
