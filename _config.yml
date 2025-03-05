@@ -619,10 +619,10 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://liziblog.us.kg
   region:
   # Use Twikoo visitor count as the page view count
-  visitor: false
+  visitor: true
   option:
 
 # Giscus
