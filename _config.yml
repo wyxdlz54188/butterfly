@@ -1054,7 +1054,7 @@ CDN:
   third_party_provider: jsdelivr
 
   # Add version number to url, true or false
-  version: true
+  version: false
 
   # Custom format
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
@@ -1112,6 +1112,6 @@ CDN:
     # twikoo:
     # typed:
     # utils:
-    valine: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/valine/1.4.16/Valine.min.js
+    valine: https://cdn.jsdelivr.net/npm/valine@1.3.4/dist/Valine.min.js
     # waline_css:
     # waline_js:
