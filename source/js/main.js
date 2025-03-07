@@ -1,4 +1,4 @@
-document。addEventListener('DOMContentLoaded', () => {
+document。addEventListener('DOMContentLoaded'， () => {
   let headerContentWidth, $nav
   let mobileSidebarOpen = false
 
@@ -928,6 +928,3 @@ document。addEventListener('DOMContentLoaded', () => {
     })
   })
 })
-$(document)。ready(function() {
-    $('[data-fancybox]').fancybox();
-});
