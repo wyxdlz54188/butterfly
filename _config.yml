@@ -896,11 +896,8 @@ clickShowText:
 # https://github.com/francoischalifour/medium-zoom
 # https://fancyapps.com/fancybox/
 # Leave it empty if you don't need lightbox
-lightbox: fanybox
-fancybox:
-  enable: true
-  animationEffect: "zoom"  # 放大动画效果
-  transitionEffect: "circular"  # 切换动画效果
+lightbox: fancybox
+
 # --------------------------------------
 # Tag Plugins settings
 # --------------------------------------
