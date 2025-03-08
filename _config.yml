@@ -14,7 +14,7 @@ nav:
   logo: /img/avatar.png
   display_title: true
   # Whether to fix navigation bar
-  fixed: false
+  fixed: true
 
 menu:
    主页: / 
