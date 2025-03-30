@@ -615,7 +615,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.liziblog.us.kg
+  envId: https://twikoo.liziweb.dedyn.io/
   region:
   # Use Twikoo visitor count as the page view count
   visitor: true
